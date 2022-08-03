@@ -1,0 +1,19 @@
+{
+  "CanContainContent": true,
+  "FileVersion": 3,
+  "SemVersion": "1.0.0",
+  "Version": 1,
+  "Modules": [
+    {
+      "LoadingPhase": "PostDefault",
+      "Name": "CDevClipboard",
+      "Type": "Runtime"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "SML",
+      "SemVersion": "^3.0.0"
+    }
+  ]
+}

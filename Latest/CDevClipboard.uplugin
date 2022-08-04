@@ -1,7 +1,7 @@
 {
   "CanContainContent": true,
   "FileVersion": 3,
-  "SemVersion": "1.0.2",
+  "SemVersion": "1.0.3",
   "Version": 1,
   "FriendlyName": "Clipboard",
   "Description": "Adds a Clipboard to the game to take notes!",
